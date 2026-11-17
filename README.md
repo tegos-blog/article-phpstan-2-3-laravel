@@ -16,4 +16,4 @@ The cold run got two times faster. The run I make fifty times a day saved about 
 
 ## 📎 Read Full
 
-[PHPStan 2.3 on a Real Laravel App: What Got Faster, What Broke](https://dev.to/tegos/PLACEHOLDER)
+[PHPStan 2.3 on a Real Laravel App: What Got Faster, What Broke](https://dev.to/tegos/phpstan-23-on-a-real-laravel-app-what-got-faster-what-broke-1d08)
